@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223243003
+# Name:MOHAMED RASHITH S
+# Date:19/05/25
 
 
 # AIM:
@@ -27,6 +27,7 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -39,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+![UseCaseDiagram1](https://github.com/user-attachments/assets/ff9ee831-a205-4258-b4e3-dd1c3f857625)
 
 
 
@@ -57,13 +59,13 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
-
+![ClassDiagramatm](https://github.com/user-attachments/assets/45bf0dc6-1115-4923-bcab-79d6831a0024)
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+![CommunicationDiagram1](https://github.com/user-attachments/assets/284e70a4-3918-4c8a-ac21-c3841b47264d)
 
 
 
@@ -76,6 +78,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+![PackageDiagram1](https://github.com/user-attachments/assets/42883ea9-730f-4672-9db2-df910f964355)
 
 
 
@@ -94,6 +97,8 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+
+![ActivityDiagram1](https://github.com/user-attachments/assets/af251058-1172-4fa7-b18f-0f3f3ddd803c)
 
 
 
@@ -118,10 +123,10 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+![SequenceDiagramatm](https://github.com/user-attachments/assets/43f1c431-dae0-4edc-9ebf-60e8111b643f)
 
 
 
 # RESULT
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
-
